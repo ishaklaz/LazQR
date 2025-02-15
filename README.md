@@ -8,8 +8,11 @@ QR Code Jacking (Any Website)
 ## Features:
 ### Port Forwarding using Ngrok or Serveo
 __________________________________
-Usage:
+# Usage:
 
 ```git clone https://github.com/ishaklaz/LazQR.git```
+---
 ```cd LazQR```
+---
 ```sudo bash lazqr.sh```
+---
