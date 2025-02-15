@@ -10,4 +10,6 @@ QR Code Jacking (Any Website)
 __________________________________
 Usage:
 
-```git clone https://github.com/thelinuxchoice/ohmyqr 
+```git clone https://github.com/ishaklaz/LazQR.git```
+```cd LazQR```
+```sudo bash lazqr.sh```
